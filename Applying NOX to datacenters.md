@@ -32,13 +32,13 @@ switches send the first packet from each new flow to a controller, the controlle
 
 
 ### Reference
-[1]
-[2]
-[3] rack < (ToR switch) *connect2* internal hierarchical network < (Aggregation switches & Core routers)
-[4] 逻辑控制 -> logically centralized view of the network, **general management plane**
-[5]
-[6]
-[7] NOX -> 抽象了 user、拓扑服务、通过在switch forwarding table维持flow entries进行网络控制, access to **network observation, control promitives**, flexible and scalable platform
-[8]
-[9]
-[10]
+[1]     
+[2]     
+[3] rack < (ToR switch) *connect2* internal hierarchical network < (Aggregation switches & Core routers)        
+[4] 逻辑控制 -> logically centralized view of the network, **general management plane**          
+[5]          
+[6]           
+[7] NOX -> 抽象了 user、拓扑服务、通过在switch forwarding table维持flow entries进行网络控制, access to **network observation, control promitives**, flexible and scalable platform             
+[8]            
+[9]           
+[10]            
