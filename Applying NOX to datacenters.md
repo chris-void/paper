@@ -19,6 +19,16 @@
 + ****
 
 ### NOX
+Important feature: 
++ **NOX provides complete visiablity of the network topology** -> minimize the flow latency     
+use topology info to pre-load forward tables in the switches      
+       
++ **NOX can operate in pro-active or re-actice** -> allow the controller to make decisions on a flow-by-flow basis, taking QoS && load condition into count     
+switches send the first packet from each new flow to a controller, the controller installs the appropriate flow entries along the desired route after consulting the its topology info     
+
+## Thought 
+论述了Datacenter中对于网络的要求是什么，然后说明了为什么NOX的应用可以support **small forwarding tables, broadcast, isolation, local independence, load balancing**，还证明了NOX可以提供QoS, middlebox traversal, network visiablity, finer-grained control等等      
+
 
 
 ### Reference
