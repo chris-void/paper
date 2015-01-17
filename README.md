@@ -13,8 +13,15 @@ notations for paper I read
 - [x] Leveraging SDN layering to systematically troubleshoot networks
 - [x] Panopticon Benefits of Incremental SDN Deployment in Enterprise
 - [x] Applying NOX to datacenters
+<<<<<<< HEAD
 - [ ] Virtualizing the Access Network via Open API
 - [ ] Software-defined traffic measurement with OpenSketch
+=======
+- [x] Fabric a retrospective on evolving SDN
+- [x] OpenFlow enabling innovation in campus network
+- [x] Virtualizing the Access Network via Open API
+- [x] Software-defined traffic measurement with OpenSketch
+>>>>>>> a8396146cd122dfce0ad867c2c7e0bdb14840cfd
 - [ ] DevoFlow scaling flow management for HP networks
 - [ ] Achieving High Utilization with SDN WAN 
 - [ ] Languages for SDN  
