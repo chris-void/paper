@@ -12,7 +12,6 @@ notations for paper I read
 - [x] Applying NOX to datacenters
 - [x] Fabric a retrospective on evolving SDN
 - [x] OpenFlow enabling innovation in campus network
-
 - [x] Virtualizing the Access Network via Open API
 - [x] Software-defined traffic measurement with OpenSketch
 - [ ] DevoFlow scaling flow management for HP networks
