@@ -1,5 +1,5 @@
 # Paper
-notations for paper I readi
+notations for paper I read
 
 ---
 ### Paper from the [Reading List](http://www.nec-labs.com/~lume/sdn-reading-list.html)
@@ -14,7 +14,6 @@ notations for paper I readi
 - [x] OpenFlow enabling innovation in campus network
 - [x] Virtualizing the Access Network via Open API
 - [x] Software-defined traffic measurement with OpenSketch
-
 - [ ] DevoFlow scaling flow management for HP networks
 - [ ] A Network in a Laptop
 - [ ] Achieving High Utilization with SDN WAN 
