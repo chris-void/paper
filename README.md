@@ -4,18 +4,18 @@ notations for paper I read
 ---
 ### Paper from the [Reading List](http://www.nec-labs.com/~lume/sdn-reading-list.html)
 
-                                           
-
+  
+- [x] Ethane taking control of the enterprise                                         
+- [x] NOX towards an os for network
+- [ ] A Network in a Laptop
 - [x] Panopticon Benefits of Incremental SDN Deployment in Enterprise
 - [x] Applying NOX to datacenters
-- [x] Ethane taking control of the enterprise
-- [x] Fabric a retrospective on evolving SDN  
-- [x] NOX towards an os for network
+- [x] Fabric a retrospective on evolving SDN
 - [x] OpenFlow enabling innovation in campus network
+
 - [x] Virtualizing the Access Network via Open API
 - [x] Software-defined traffic measurement with OpenSketch
 - [ ] DevoFlow scaling flow management for HP networks
-- [ ] A Network in a Laptop
 - [ ] Achieving High Utilization with SDN WAN 
 - [ ] Languages for SDN  
 
