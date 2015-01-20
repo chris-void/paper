@@ -13,7 +13,7 @@
 SDNc port && legacy port
 
 ### 实现waypoint ewnforcement
-1.对于任何一对包含SDNc的port，制定一个为waypoint（计算包含waypoint的shortest end 2 end path）
+i1.对于任何一对包含SDNc的port，制定一个为waypoint（计算包含waypoint的shortest end 2 end path）
 2.给每个end 2 end path VLAN ID
 
 **SCT: ** solitary confinement tree
