@@ -23,10 +23,10 @@ notations for paper I read
 
 - [x] [DDoS Attack Protection in the Era of Cloud Computing and Software-Defined Networking]()
 - [x] [Enhancing Network Management Frameworks with SDN-like Control]()
+- [  ] [Composing Software-Defined Networks]()
 - [ ] [Implementing Shortest Path Routing Mechanism using Openflow POX Controller]()
 - [ ] [Scaling a Broadcast Domain of Ethernet- Extensible Transparent Filter using SDN]()
 - [ ] [SuperFlow- A Reliable, Controllable and Scalable Architecture for Large-Scale Enterprise Networks]()
-- [ ] Composing Software-Defined Networks
 - [ ] Optimal Model for the Controller Placement Problem in Software Defined Networks
 - [ ] A New Mechanism for SDN Network Virtualization Service
 - [ ] AgNOS- A Framework for Autonomous Control of Software-Defined Networks
