@@ -1,5 +1,4 @@
 
-
 # A network in a laptop: rapid prototyping for software-defined networks
 
 @(paper)[ ]
@@ -15,8 +14,7 @@
 + Hosts
 + Switches
 + Controllers
-
-	### Python API
++	###Python API
 	mininet/examples
 
 

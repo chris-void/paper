@@ -11,12 +11,9 @@
 ## MAIN
 
 - **enterprise network:**  grow organically
-- ****
 
 ### Dataenter
 + **bare-metal** datacenter:
-+ ****
-+ ****
 
 ### NOX
 Important feature: 
@@ -28,8 +25,6 @@ switches send the first packet from each new flow to a controller, the controlle
 
 ## Thought 
 论述了Datacenter中对于网络的要求是什么，然后说明了为什么NOX的应用可以support **small forwarding tables, broadcast, isolation, local independence, load balancing**，还证明了NOX可以提供QoS, middlebox traversal, network visiablity, finer-grained control等等      
-
-
 
 ### Reference
 [1]     

@@ -21,26 +21,25 @@ notations for paper I read
 
 ### Papers related to **SDN** && **enterprise** in 2014,2015
 
+- [x] [DDoS Attack Protection in the Era of Cloud Computing and Software-Defined Networking]()
+- [x] [Enhancing Network Management Frameworks with SDN-like Control]()
+- [ ] [Implementing Shortest Path Routing Mechanism using Openflow POX Controller]()
+- [ ] [Scaling a Broadcast Domain of Ethernet- Extensible Transparent Filter using SDN]()
+- [ ] [SuperFlow- A Reliable, Controllable and Scalable Architecture for Large-Scale Enterprise Networks]()
 - [ ] Composing Software-Defined Networks
-- [ ] Implementing Shortest Path Routing Mechanism using Openflow POX Controller
 - [ ] Optimal Model for the Controller Placement Problem in Software Defined Networks
-- [ ] DDoS Attack Protection in the Era of Cloud Computing and Software-Defined Networking
 - [ ] A New Mechanism for SDN Network Virtualization Service
 - [ ] AgNOS- A Framework for Autonomous Control of Software-Defined Networks
 - [ ] Software-Defined Networks- Incremental Deployment with Panopticon
-- [ ] SuperFlow- A Reliable, Controllable and Scalable Architecture for Large-Scale Enterprise Networks
 - [ ] An Autonomic Management Architecture for SDN-based Multi-service Network
 - [ ] Emulating Enterprise Network Environments for Fast Transition to Software-Defined Networking
 - [ ] SDN-Based Private Interconnection
 - [ ] Cloud Atlas- A Software Defined Networking Abstraction for Cloud to WAN Virtual Networking
-- [ ] Enhancing Network Management Frameworks with SDN-like Control
-- [ ] Scaling a Broadcast Domain of Ethernet- Extensible Transparent Filter using SDN
 - [ ] Seamless Handoff and Performance Anomaly Reduction Schemes based on OpenFlow Access Points
 - [ ] Software Defined Networking and Applicability to Access Networks
 - [ ] Software Defined Networks- Redefining the Future of Internet in IoT and Cloud era
 
 ### Additional Material
 - [] [Google's effort on SDN]()
-
 
 
