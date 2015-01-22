@@ -6,8 +6,8 @@
 2. compute componments
 3. WAN fabric -> cost efficiency, high performance, fault tolerance, manageability
 
-+ I-scale:
-+ G-scale: deployed a OpenFlow powered SDN solution 
+  + I-scale:
+  + G-scale: deployed a OpenFlow powered SDN solution 
 
 ### detail
 "On this WAN fabric we built a centralized traffic engineering (TE) service. The service collects real-time utilization metrics and topology data from the underlying network and bandwidth demand from applications/services. With this data, it computes the path assignments for traffic flows and then programs the paths into the switches using OpenFlow. In the case of changing demand or network events, the service re-computes path assignments and reprograms the switches."
@@ -31,7 +31,7 @@ The decoupling of the control plane from the forwarding/data plane enables us to
 + High fidelity test environment
 The entire backbone is emulated in software which not only helps in testing and verification but also in running “what-if” scenarios.
 
-+Elastic compute 
++ Elastic compute 
 Compute capability of network devices is no longer a limiting factor as control and management resides on external servers/controllers. Large-scale computation, path optimization in our case, is done using the latest generation of servers.
 
 
