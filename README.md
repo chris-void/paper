@@ -10,7 +10,7 @@ notations for paper I read
 - [x] [NOX: Towards an OS for network](https://github.com/chris-void/paper/blob/master/reading-list/NOX%20towards%20an%20os%20for%20network.md)
 - [x] [A Network in Laptop: Rapid prototyping for SDN](https://github.com/chris-void/paper/blob/master/reading-list/A%20Network%20in%20a%20Laptop.md)
 - [x] [Fabric: A retrospective on evolving SDN](https://github.com/chris-void/paper/blob/master/reading-list/Fabric%20a%20retrospective%20on%20evolving%20SDN.md)
-- [x] [Leveraging SDN layering to systematically troubleshoot networks]
+- [x] [Leveraging SDN layering to systematically troubleshoot networks]()
 - [x] [Panopticon Benefits of Incremental SDN Deployment in Enterprise](https://github.com/chris-void/paper/blob/master/reading-list/Panopticon%20Benefits%20of%20Incremental%20SDN%20Deployment%20in%20Enterprise.md)
 - [x] [Applying NOX to datacenters](https://github.com/chris-void/paper/blob/master/reading-list/Applying%20NOX%20to%20datacenters.md)
 - [ ] [Virtualizing the Access Network via Open API](https://github.com/chris-void/paper/blob/master/reading-list/Virtualizing%20the%20Access%20Network%20via%20Open%20API.md)
