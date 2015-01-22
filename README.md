@@ -23,7 +23,8 @@ notations for paper I read
 
 - [x] [DDoS Attack Protection in the Era of Cloud Computing and Software-Defined Networking](https://github.com/chris-void/paper/blob/master/2013-2015/DDoS%20Attack%20Protection%20in%20the%20Era%20of%20Cloud%20and%20SDN.md)
 - [x] [Enhancing Network Management Frameworks with SDN-like Control](https://github.com/chris-void/paper/blob/master/2013-2015/Enhancing%20Network%20Management%20Frameworks%20with%20SDN-like%20Control.md)
-- [ ] Composing Software-Defined Networks
+- [x] Composing Software-Defined Networks
+- [x] SuperFlow- A Reliable, Controllable and Scalable Architecture for Large-Scale Enterprise Networks
 - [ ] Optimal Model for the Controller Placement Problem in Software Defined Networks
 - [ ] A New Mechanism for SDN Network Virtualization Service
 - [ ] AgNOS- A Framework for Autonomous Control of Software-Defined Networks
@@ -37,7 +38,7 @@ notations for paper I read
 - [ ] Software Defined Networks- Redefining the Future of Internet in IoT and Cloud era
 - [ ] Implementing Shortest Path Routing Mechanism using Openflow POX Controller
 - [ ] Scaling a Broadcast Domain of Ethernet- Extensible Transparent Filter using SDN
-- [ ] SuperFlow- A Reliable, Controllable and Scalable Architecture for Large-Scale Enterprise Networks
+
  
 ### Additional Material
 - [x] [Google's effort on SDN](https://github.com/chris-void/paper/blob/master/additional/2015-1-18-google-with-sdn.md)
