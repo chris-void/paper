@@ -41,6 +41,6 @@ notations for paper I read
 
  
 ### Additional Material
-- [x] [Google's effort on SDN](https://github.com/chris-void/paper/blob/master/additional/2015-1-18-google-with-sdn.md)
+- [x] [Google's effort on SDN](https://github.com/chris-void/paper/blob/master/additional/google-with-sdn.md)
 
 
