@@ -1,5 +1,16 @@
-#### ONOS: Towards an Open, Distributed SDN OS
-Bob Lantz; Brian O'Connor; Jonathan Hart; Pankaj Berde; Pavlin Radoslavov; Masayoshi Kobayashi; Toshio Koide; Yuta Higuchi; Matteo Gerola; William Snow; Guru Parulkar
+[16] “Flow Caching for High Entropy Packet Fields,” 
+Nick Shelly, Ethan Jackson, Teemu Koponen, Nick McKeown, and Jarno Rajahalme. 
+In proceedings of the third workshop on Hot topics in Software Defined Networks (HotSDN), Chicago, USA, 2014. [pdf]
+
+[15] “CAB: A Reactive Wildcard Rule Caching System for Software-Defined Networks,” 
+Bo Yan, Yang Xu, Hongya Xing, Kang Xi, and H. Jonathan Chao. 
+In proceedings of the third workshop on Hot topics in Software Defined Networks (HotSDN), Chicago, USA, 2014. [pdf]
+
+[7] “Application-aware Data Plane Processing in SDN,” 
+Hesham Mekky, Fang Hao, Sarit Mukherjee, Zhi-Li Zhang, and TV Lakshman. 
+In proceedings of the third workshop on Hot topics in Software Defined Networks (HotSDN), Chicago, USA, 2014. [pdf]
+
+# -
 
 #### ClosedFlow: OpenFlow-like Control over Proprietary Devices
 Ryan Hand; Eric Keller
@@ -51,20 +62,8 @@ Ye Yu; Chen Qian; Xin Li
 11:05am – 12:05pm Full talks #2: Security, Correctness, Debugging
 Session Chair: Bob Lantz, ON.Lab, USA
 
-#### An Assertion Language for Debugging SDN Applications
-Ryan Beckett; X. Kelvin Zou; Shuyuan Zhang; Sharad Malik; Jennifer Rexford; David Walker
-
-#### FlowGuard: Building Robust Firewalls for Software-Defined Networks
-Hongxin Hu; Wonkyu Han; Gail-Joon Ahn; Ziming Zhao
-
-#### Fleet: Defending SDNs from Malicious Administrators
-Stephanos Matsumoto; Samuel Hitz; Adrian Perrig
-
 #### Towards Correct Network Virtualization
 Soudeh Ghorbani; Brighten Godfrey
-
-1:30pm – 2:15pm Lightning talks #3
-Session Chair: Anees Shaikh, Google, USA
 
 #### Using MAC Addresses as Efficient Routing Labels in Data Centers
 Arne Schwabe; Holger Karl
@@ -81,15 +80,8 @@ Ying Zhang; Sriram Natarajan; Xin Huang; Neda Beheshti; Ravi Manghirmalani
 #### SDN traceroute: Tracing SDN Forwarding without Changing Network Behavior
 Kanak Agarwal; Eric Rozner; Colin Dixon; John Carter
 
-2:15pm-3:15pm Full talks #3: Efficiency, Scalability
-Session Chair: Aditya Akella, UW-Madison, USA
-
 #### Flow Caching for High Entropy Packet Fields
 Nick Shelly; Ethan Jackson; Teemu Koponen; Nick McKeown; Jarno Rajahalme
-
-#### Shadow MACs: Scalable Label-switching for Commodity Ethernet
-Kanak Agarwal; Colin Dixon; Eric Rozner; John Carter
-Slides Paper
 
 #### CAB: A Reactive Wildcard Rule Caching System for Software-Defined Networks
 Bo Yan; Yang Xu; Hongya Xing; Kang Xi; H. Jonathan Chao
@@ -97,10 +89,6 @@ Slides Paper
 
 #### Enabling Layer 2 Pathlet Tracing through Context Encoding in Software-Defined Networking
 Hui Zhang; Cristian Lumezanu; Junghwan Rhee; Nipun Arora; Qiang Xu; Guofei Jiang
-3:15-3:30pm Coffee
-3:30-4:30pm Full talks #4: New abstractions, Update Mechanisms
-Session Chair: Dejan Kostic, KTH Royal Inst. of Tech., Sweden
-Slides Paper
 
 #### Infinite CacheFlow in Software-Defined Networks
 Naga Katta; Omid Alipourfard; Jennifer Rexford; David Walker
@@ -189,10 +177,6 @@ Paper
 
 #### Ranges and Cross-Entrance Consistency with OpenFlow
 Yehuda Afek; Anat Bremler-Barr; Liron Schiff
-Paper
-
-#### Tolerating SDN Application Failures with LegoSDN
-Balakrishnan Chandrasekaran; Theophilus Benson
 Paper
 
 #### Radio Visor : A Slicing Plane for Radio Access Networks
